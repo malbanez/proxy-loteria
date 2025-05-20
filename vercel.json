@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/loteria.js": {
+      "maxDuration": 10
+    }
+  }
+}
